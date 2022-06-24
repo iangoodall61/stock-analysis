@@ -7,6 +7,7 @@ Steve enjoyed our first analysis of the DQ stock and now would like us to take i
 ## Results
 
 My refactored code ran but it was only showing the stock prices for AY. I tried adjusting it many times and could not seem to trouble shoot my issues by the deadline. I had issues with writing the IF then statement to increase the ticker index, and every line I wrote it would send back an error message. 
+
 ![image](https://user-images.githubusercontent.com/107015694/175453069-ea146c85-8c41-4aca-acf4-87de8f42f963.png) ![image](https://user-images.githubusercontent.com/107015694/175453093-8dc978d2-0881-46c2-b14c-f0143c862f68.png)
 
 
